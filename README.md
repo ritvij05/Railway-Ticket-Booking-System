@@ -7,9 +7,10 @@
 #STEPS:
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
-1.Install all the packages
-2.Install mysql and then set up its server and make necessary changes in py file for database
-3.Open 'cmd' in the folder and type ----python welcome.py
-4.You are ready to go.
+         
+          1.Install all the packages
+          2.Install mysql and then set up its server and make necessary changes in py file for database
+          3.Open 'cmd' in the folder and type ----python loginf.py
+          4.You are ready to go.
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
